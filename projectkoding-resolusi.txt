@@ -1,0 +1,4 @@
+Resolusi Projectkoding
+- membuat aplikasi webportfolio
+- membuat aplikasi webmenggunakan CI
+- ....
