@@ -1,4 +1,5 @@
 Resolusi Projectkoding
-- membuat aplikasi webportfolio
-- membuat aplikasi webmenggunakan CI
+- membuat aplikasi web portfolio
+- membuat aplikasi web menggunakan CI
+- membuat aplikasi web company profile
 - ....
